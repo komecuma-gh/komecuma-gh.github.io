@@ -7,7 +7,5 @@
       }],
   "start_url": "https://komecuma-gh.github.io/chrome-push-notification/index.html",
   "display": "standalone",
-  "gcm_sender_id": "richpushsandbox",
-  "//": "gcm_user_visible_only is only needed until Chrome 44 is in stable ",
-  "gcm_user_visible_only": true
+  "gcm_sender_id": "37720829821"
 }
