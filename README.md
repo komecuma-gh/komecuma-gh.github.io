@@ -1,1 +1,0 @@
-# komecuma-gh.github.io
